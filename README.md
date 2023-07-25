@@ -1,2 +1,2 @@
 # openBootCamp
-Ejercicios BootCamp
+Ejercicios de OpenBootCamp
